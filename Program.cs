@@ -1,4 +1,5 @@
 ﻿
+
 //Assignment 1:
 
 
@@ -42,7 +43,9 @@ else if (Day > 7)
     Console.WriteLine("Invalid Input");
 }
 
+
 //Assignment 2:
+
 
 Console.WriteLine("Enter Month number : ");
 int Month = Convert.ToInt32(Console.ReadLine());
