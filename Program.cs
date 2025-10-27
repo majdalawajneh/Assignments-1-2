@@ -1,7 +1,6 @@
 ﻿
-
+//FullStack-Bootcamp
 //Assignment 1:
-
 
 Console.WriteLine("Enter Day number : ");
 int Day = Convert.ToInt32(Console.ReadLine());
